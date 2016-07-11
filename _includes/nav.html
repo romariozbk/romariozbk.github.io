@@ -1,0 +1,12 @@
+<nav id="main-nav">
+    <ul>
+        <li><a class="fancy-nav" href="{{ site.baseurl }}/index.html">Главная</a></li>
+        {% for link in site.categories %}
+        <li><a class="fancy-nav" href="{{ site.baseurl }}/categories/example.html">Портфолио</a></li>
+        {% endfor %}
+        <li><a class="fancy-nav" href="{{ site.baseurl }}/pages/about.html">Контакты</a></li>
+    </ul>
+</nav>
+
+
+
