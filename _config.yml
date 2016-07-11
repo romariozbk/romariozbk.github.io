@@ -4,19 +4,19 @@
 ##########################################
 
 # Set this for Copyright in the footer
-owner: Name Surname
+owner: Roman Litvintsev
 
 # Optional quote in the footer
 # To disable set enable to false
 quote:
   enable: true
-  quote: Some fancy quote.
-  author: Rudy Li
+  quote: Я обычно плох, но, когда я хорош, я хорош дьявольски.
+  author: Чарльз Буковски
 
 # Set this to your main site title
 # In the head - ff page doesnt have its own title,
 # Site title will be used instead
-title: Aliquam Theme - Author Dennis Grinch
+title: Блог Романа Литвинцева
 
 # Description and title below nav in the header
 punch-line: true
