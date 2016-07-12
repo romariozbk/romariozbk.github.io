@@ -1,6 +1,6 @@
 ---
 published: true
-category: example
+category: Example
 ---
 ## Привет всем
 
