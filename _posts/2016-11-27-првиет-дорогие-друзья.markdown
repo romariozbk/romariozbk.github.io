@@ -1,4 +1,8 @@
 ---
-title: Првиет дорогие друзья
 layout: post
+title: Привет дорогие друзья
+comments: true
+description: All the features of post layout
+tags:
+    - информационная безопасность
 ---
