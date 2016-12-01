@@ -1,10 +1,10 @@
----
+﻿---
 layout: page
 title: Контакты
-description: More information about me and this website.
+description: 
 ---
 
-I am ...
+ВЫ можете со мной связаться...
 
 ## My skills
 
