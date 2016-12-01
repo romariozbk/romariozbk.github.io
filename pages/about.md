@@ -6,7 +6,7 @@ description: More information about me and this website.
 
 I am ...
 
-## My skills
+
 
 <div id="skills">
 <div>
@@ -33,9 +33,6 @@ I am ...
 </div>
 </div>
 
-## Contact form
-
-{% include contact_form.html %}
 
 
 
