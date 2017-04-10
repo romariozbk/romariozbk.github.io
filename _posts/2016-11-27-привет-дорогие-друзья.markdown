@@ -1,0 +1,8 @@
+---
+layout: post
+title: how
+category: Example
+comments: true
+description: All the features of post layout
+
+---
