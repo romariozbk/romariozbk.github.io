@@ -2,9 +2,7 @@
         <ul>
             <li><a class="fancy-nav" href="{{ site.baseurl }}/index.html">Главная</a></li>
             {% for link in site.categories %}
-            <li><a class="fancy-nav" href="{{ site.baseurl }}/categories/{{ link | first | downcase }}">{{ link | first
-                }}</a></li>
-            {% endfor %}
+                        {% endfor %}
             <li><a class="fancy-nav" href="{{ site.baseurl }}/pages/about.html">контакты</a></li>
         </ul>
     </nav>
